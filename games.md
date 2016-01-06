@@ -9,7 +9,7 @@ permalink: /games/
 
 I ported this game to FirefoxOS during my time at Hitpoint
 Studios. Originally it was written in Unity (C#) for iOS and
-android. Since FirefoxOS did not support unity at the time
+android. Since FirefoxOS does not support unity,
 I rewrote the game in Javascript using ImpactJS. The result
 is a slimed down version of the game that loads faster and
 works on low end devices.
